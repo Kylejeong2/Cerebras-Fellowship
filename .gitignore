@@ -3,16 +3,6 @@
 /dist/
 /build/
 
-*.pyc
-*.pyo
-*.pyd
-*.pyw
-*.pyz
-*.py
-*.log
-*.txt
-*.json
-*.csv
-*.xlsx
-*.xls
-*.db
+.env
+
+__pycache__/
